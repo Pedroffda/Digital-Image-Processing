@@ -1,0 +1,3 @@
+# Classificação de Engrenagens
+
+A atividade final da disciplina solicita um sistema capaz de classificar engrenagens transitando em uma esteira rolante. Este sistema deve ser capaz de detectar se as engrenagens estão tocando umas nas outras ou estão nas bordas da imagem, também podem surgir engrenagens com dentes faltando, sendo todos estes casos considerados defeituosos e devem ser removidos. Para este trabalho, foram utilizadas duas imagens, a imagem disponibilizada pelo professor e outras imagens de escolha dos alunos, sendo que as imagens adicionais apresentam características que permitem atestar a qualidade do sistema desenvolvido.
